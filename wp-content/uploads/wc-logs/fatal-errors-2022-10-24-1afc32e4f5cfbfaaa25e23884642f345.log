@@ -1,0 +1,4 @@
+2022-10-24T19:34:26+00:00 CRITICAL syntax error, unexpected identifier "wp_style_add_data" v C:\xampp\htdocs\shop\wp-content\themes\PawsGang-eCommerce-Theme-WooCommerce-main\functions.php na riadku 147
+
+2022-10-24T19:36:46+00:00 CRITICAL syntax error, unexpected single-quoted string "https://netdna.bootstrapcdn.co...", expecting ")" v C:\xampp\htdocs\shop\wp-content\themes\PawsGang-eCommerce-Theme-WooCommerce-main\functions.php na riadku 146
+
